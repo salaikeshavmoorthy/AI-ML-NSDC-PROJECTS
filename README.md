@@ -1,2 +1,3 @@
 # AI-ML-NSDC-PROJECTS
-Salai keshava moorthy B , Pursuing at Panimalar Institute of Technology
+Pursuing at Panimalar Institute of Technology
+crazy works on web scrapping
