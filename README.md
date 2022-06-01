@@ -1,3 +1,5 @@
 # AI-ML-NSDC-PROJECTS
-Pursuing at Panimalar Institute of Technology
-crazy works on web scrapping
+Pythoneer
+Works on web scrapping
+Works on Supervised Learning(ML)
+Works on UnSupervised Learning(ML)
